@@ -1,0 +1,17 @@
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/apk.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/aab.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/untitled.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/_qt_internal_apk_dependencies.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/apk_all.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/qt_internal_plugins.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/untitled_prepare_apk_dir.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/untitled_make_apk.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/untitled_make_aab.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/install.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/install/local.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/install/strip.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+C:/Users/CLOVR/Documents/build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug/CMakeFiles/untitled_autogen.dir

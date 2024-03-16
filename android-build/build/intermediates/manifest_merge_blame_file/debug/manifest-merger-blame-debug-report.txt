@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.qtproject.example.untitled"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:7:5-67
+12-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:8:5-81
+13-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:9:5-79
+14-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:9:22-76
+15
+16    <supports-screens
+16-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:11:5-15:39
+17        android:anyDensity="true"
+17-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:12:9-34
+18        android:largeScreens="true"
+18-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:13:9-36
+19        android:normalScreens="true"
+19-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:14:9-37
+20        android:smallScreens="true" />
+20-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:15:9-36
+21
+22    <permission
+22-->[androidx.core:core:1.10.1] C:\Users\CLOVR\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+23        android:name="org.qtproject.example.untitled.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+23-->[androidx.core:core:1.10.1] C:\Users\CLOVR\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+24        android:protectionLevel="signature" />
+24-->[androidx.core:core:1.10.1] C:\Users\CLOVR\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+25
+26    <uses-permission android:name="org.qtproject.example.untitled.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+26-->[androidx.core:core:1.10.1] C:\Users\CLOVR\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+26-->[androidx.core:core:1.10.1] C:\Users\CLOVR\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+27
+28    <application
+28-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:16:5-57:19
+29        android:name="org.qtproject.qt.android.bindings.QtApplication"
+29-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:17:9-71
+30        android:allowBackup="true"
+30-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:21:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.10.1] C:\Users\CLOVR\.gradle\caches\transforms-3\4be2570fd98c550226d6d381b2ee3a14\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:fullBackupOnly="false"
+33-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:22:9-39
+34        android:hardwareAccelerated="true"
+34-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:18:9-43
+35        android:label="untitled"
+35-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:19:9-33
+36        android:requestLegacyExternalStorage="true"
+36-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:20:9-52
+37        android:testOnly="true" >
+38        <activity
+38-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:23:9-46:20
+39            android:name="org.qtproject.qt.android.bindings.QtActivity"
+39-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:24:13-72
+40            android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation|mcc|mnc|density"
+40-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:25:13-182
+41            android:exported="true"
+41-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:29:13-36
+42            android:label="untitled"
+42-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:26:13-37
+43            android:launchMode="singleTop"
+43-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:27:13-43
+44            android:screenOrientation="unspecified" >
+44-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:28:13-52
+45            <intent-filter>
+45-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:30:13-33:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:31:17-69
+46-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:31:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:32:17-77
+48-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:32:27-74
+49            </intent-filter>
+50
+51            <meta-data
+51-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:35:11-37:44
+52                android:name="android.app.lib_name"
+52-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:36:17-52
+53                android:value="untitled" />
+53-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:37:17-41
+54            <meta-data
+54-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:39:11-41:36
+55                android:name="android.app.arguments"
+55-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:40:17-53
+56                android:value="" />
+56-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:41:17-33
+57            <meta-data
+57-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:43:13-45:43
+58                android:name="android.app.extract_android_style"
+58-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:44:17-65
+59                android:value="minimal" />
+59-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:45:17-40
+60        </activity>
+61
+62        <provider
+63            android:name="androidx.core.content.FileProvider"
+63-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:49:13-62
+64            android:authorities="org.qtproject.example.untitled.qtprovider"
+64-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:50:13-62
+65            android:exported="false"
+65-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:51:13-37
+66            android:grantUriPermissions="true" >
+66-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:52:13-47
+67            <meta-data
+67-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:53:13-55:59
+68                android:name="android.support.FILE_PROVIDER_PATHS"
+68-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:54:17-67
+69                android:resource="@xml/qtprovider_paths" />
+69-->C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\AndroidManifest.xml:55:17-57
+70        </provider>
+71    </application>
+72
+73</manifest>

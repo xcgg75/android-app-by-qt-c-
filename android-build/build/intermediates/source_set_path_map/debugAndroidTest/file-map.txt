@@ -1,0 +1,5 @@
+org.qtproject.example.untitled.test-androidTest-0 C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\build\generated\res\resValues\androidTest\debug
+org.qtproject.example.untitled.test-androidTest-1 C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\build\generated\res\rs\androidTest\debug
+org.qtproject.example.untitled.test-mergeDebugAndroidTestResources-2 C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.qtproject.example.untitled.test-mergeDebugAndroidTestResources-3 C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.qtproject.example.untitled.test-merged_res-4 C:\Users\CLOVR\Documents\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\android-build\build\intermediates\merged_res\debugAndroidTest

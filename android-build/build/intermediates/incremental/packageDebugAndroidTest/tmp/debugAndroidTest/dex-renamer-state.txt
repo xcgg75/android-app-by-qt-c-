@@ -1,0 +1,7 @@
+#Sat Mar 16 13:14:26 GMT 2024
+base.0=C\:\\Users\\CLOVR\\Documents\\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\\android-build\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\CLOVR\\Documents\\build-untitled-Android_Qt_6_6_2_Clang_x86_64-Debug\\android-build\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex
+path.0=0/classes.dex
+path.1=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
